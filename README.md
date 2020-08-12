@@ -1,6 +1,7 @@
 # color-ui
 
-为了方便在微信小程序中使用[开源项目ColorUI](https://github.com/weilanwl/ColorUI/)样式，将ColorUI中的css库转为微信小程序中的自定义组件，方便开发者使用
+为了方便在微信小程序中使用[开源项目ColorUI](https://github.com/weilanwl/ColorUI/)样式，将ColorUI中的css库转为微信小程序中的自定义组件，方便开发者使用  
+在构建项目使用gulp打包工具时，参考了[开源项目lin-ui](https://github.com/TaleLin/lin-ui)中编写的打包函数方法
 
 ## 声明
 
